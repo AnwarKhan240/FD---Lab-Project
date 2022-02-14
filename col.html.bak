@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="home.css" />
+    <title>COLLECTION</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">
+          <h1>COLLECTIONS</h1>
+        </div>
+        <ul class="list-items">
+          <li><a href="home.html" class="link">HOME</a></li>
+          <li><a href="col.html" class="link">COLLECTION</a></li>
+          <li><a href="contact.html" class="link">CONTACT US</a></li>
+          <li><a href="about.html" class="link">ABOUT US</a></li>
+        </ul>
+
+        
+      </nav>
+      <div class="main">
+        
+          <div class="banner">
+            <div class="f-text">
+              
+            </div>
+            <a href="mob1.html" class="btn">Apple</a>
+            <a href="mob2.html" class="btn">Samsung</a>
+            <a href="mob3.html" class="btn">Nokia   </a>
+            <a href="mob4.html" class="btn">One Plus</a>
+            <a href="mod5.html" class="btn">Huawei</a>
+          </div>
+        </div>
+        
+      </div>
+      
+    </header>
+  </body>
+</html>
